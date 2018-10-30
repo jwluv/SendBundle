@@ -16,5 +16,39 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/buttonSendBundle" />
+
+        <TextView
+            android:id="@+id/textViewId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/textViewId" />
+
+        <EditText
+            android:id="@+id/editTextId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="@string/editTextId"
+            android:inputType="textPersonName" />
+
+        <TextView
+            android:id="@+id/textViewPass"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/textViewPass" />
+
+        <EditText
+            android:id="@+id/editTextPass"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="@string/editTextPass"
+            android:inputType="textPersonName" />
+
+        <Button
+            android:id="@+id/buttonLogin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/buttonLogin" />
     </LinearLayout>
 </android.support.constraint.ConstraintLayout>

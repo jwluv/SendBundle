@@ -3,4 +3,9 @@
     <string name="buttonSendBundle">Send Bundle</string>
     <string name="textViewExplicitTitle">Explicit Intent</string>
     <string name="textViewExplicitBundle" />
+    <string name="textViewId">아이디</string>
+    <string name="textViewPass">패스워드</string>
+    <string name="editTextId">아이디를 입력하세요</string>
+    <string name="editTextPass">패스워드를 입력하세요</string>
+    <string name="buttonLogin">Log in</string>
 </resources>
