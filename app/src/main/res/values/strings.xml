@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SendBundle</string>
+    <string name="buttonSendBundle">Send Bundle</string>
+    <string name="textViewExplicitTitle">Explicit Intent</string>
+    <string name="textViewExplicitBundle" />
+</resources>
